@@ -1,2 +1,3 @@
 # Um site clone básico da Netflix
-![](./assets/images-readme/1.png)
+![tela-um-netflix_clone](./assets/images-readme/1.png)
+![tela-dois-netflix_clone](./assets/images-readme/2.png)
