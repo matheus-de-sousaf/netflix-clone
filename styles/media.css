@@ -1,0 +1,88 @@
+@media screen and (max-width: 748px) {
+
+
+    #container {
+        background-image: linear-gradient(to top, rgba(0, 0, 0, 0.858) 0, rgba(0, 0, 0, 0.338) 60%, rgba(0, 0, 0, 0.8) 100%), url(../assets/images/wallpaper.jpg);
+        height: 650px;
+        width: 100%;
+    }
+
+    header{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        padding-top: 25px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    select{
+        color: black;
+        border: 1,5px solid white;
+        margin-right: 10px;
+        font-size: 13pt;
+        background-color: transparent;
+        color: white;
+        padding: 7px 14px; 
+        border-radius: 5px;
+    }
+
+    section {
+        text-align: center;
+        color: white;
+        padding-top: 10px;
+    }
+
+    .subtitle {
+        font-size: 14pt;
+    }
+
+    h3 {
+        font-size: 12pt;
+    }
+
+    .sec_bot {
+        background-color: black;
+        margin-top: 8px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 0px;
+    }
+
+    .image_sec {
+        width: 100%;
+    }
+    form{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    input {
+        width: 90%;
+        padding: 10px 15px;
+        font-size: 12pt;
+        border: 1px solid;
+        border-radius: 4px;
+        background-color: rgba(34, 34, 34, 0.607);
+        border-color: rgb(122, 122, 122);
+        margin: 0;
+    }
+
+    #bnt-form {
+        width: 30%;
+        padding: 10px 15px;
+        font-size: 12pt;
+        background-color: rgb(229, 9, 20);
+        color: white;
+        border-style: none;
+        border-radius: 4px;
+        font-weight: lighter;
+        margin-top: 10px;
+    }
+
+
+}
